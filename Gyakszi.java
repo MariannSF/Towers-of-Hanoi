@@ -1,9 +1,5 @@
 /*
- * Mariann Szabo-Freund
- * 
- * ITCS-2215
- * Assignment #1
- * 
+ * Mariann Szabo-Freund 
  * 7/17/2014
  * 
  */
